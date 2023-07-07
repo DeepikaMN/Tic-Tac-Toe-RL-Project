@@ -41,7 +41,7 @@ The example game simulation demonstrates the usage of the optimal policy to play
 
 Contributions to this repository are welcome. If you have any suggestions, bug fixes, or additional features, feel free to submit a pull request.
 
-## Explaination
+## Explanation
 
 The provided code is a Python implementation of a Tic Tac Toe game with an AI opponent. It uses the value iteration algorithm to find the optimal policy for each state of the game.
 
